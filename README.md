@@ -14,7 +14,7 @@ The script utilizes the PIL (Python Imaging Library) to open and save images, au
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/[QuachRTX]/StableDiffusion-MetadataRemover.git
+git clone https://github.com/QuachRTX/StableDiffusion-MetadataRemover.git
 ```
 
 2. Install PIL (Pillow), if not already installed:
