@@ -9,6 +9,7 @@ The script utilizes the PIL (Python Imaging Library) to open and save images, au
 
 ## Requirements
 Python 3.x
+
 PIL (Pillow)
 
 ## Contributions
